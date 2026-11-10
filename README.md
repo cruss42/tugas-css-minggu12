@@ -20,12 +20,7 @@ Studi kasus: halaman informasi wisata Pantai Papuma, Jember.
 - Flexbox (header)
 - CSS Grid (hero)
 - Styling tabel, daftar, dan gambar (`object-fit`)
-- Media query untuk tampilan HP
 
-## Screenshot
-
-![Tampilan desktop](screenshot-desktop.png)
-![Tampilan HP](screenshot-mobile.png)
 
 ## Referensi
 
